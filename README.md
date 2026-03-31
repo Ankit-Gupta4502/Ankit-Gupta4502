@@ -1,83 +1,65 @@
-# Ankit Gupta
+-----
 
-### Software Engineer · Frontend Systems · AI Integrations
+# \<img src="[https://media.giphy.com/media/hvRJCLzPaCUEvPrUjz/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLzPaCUEvPrUjz/giphy.gif)" width="35"\> **Ankit Gupta** \#\#\# ⚡ **Frontend Systems Architect** • Engineering the Future of AI Interfaces
 
----
+-----
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Designing+fast+interfaces;Engineering+scalable+systems;Building+AI-powered+products" />
-</p>
+## 🎨 **The Creative Brief**
 
----
+**Software Engineer II at Kapture CX** 🇮🇳
+I specialize in the intersection of **High-Performance Frontend Systems** and **AI Integration**. My mission is to bridge the gap between complex backend logic and seamless, fluid user experiences.
 
-## Profile
+> *“I don’t just build interfaces; I engineer the performance that makes them feel invisible.”*
 
-Software Engineer with 4+ years of experience building high-performance web applications using React and Next.js. Focused on performance, scalability, and crafting seamless user experiences. Experienced in integrating AI systems and optimizing real-time applications used at scale.
+-----
 
----
+## 🛠️ **The Technical Arsenal**
 
-## Selected Experience
+\<p align="left"\>
+\<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB)" /\>
+\<img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite)" /\>
+\</p\>
 
-**Kapture CX — Software Development Engineer II**
-*Dec 2024 – Present*
+| Domain | Focus Area |
+| :--- | :--- |
+| **🚀 Performance** | 60 FPS rendering, Asset Streaming, Batching |
+| **🤖 AI Systems** | Multi-model Agents, LLM Workflows, Automation |
+| **📱 Architecture** | Design Systems, Scalable State, Real-time WebSockets |
 
-* Built real-time chat infrastructure for 1000+ concurrent users
-* Reduced rendering overhead by 70% using streaming and batching
-* Maintained consistent 60 FPS under peak load
-* Developed AI-integrated employee experience platform
+-----
 
-**Triventcad Solution — Frontend Engineer**
-*Oct 2023 – Dec 2024*
+## 💎 **Selected Impact**
 
-* Developed operational dashboard improving assignment efficiency by 20%
-* Delivered customer-facing tools used by 500+ users
+### 🧠 **Kapture EX — AI Employee Platform**
 
-**Rightmove Technologies — Frontend Developer**
-*Dec 2021 – Sep 2023*
+  * **The Problem:** Fragmented workflows across Jira, Salesforce, and Google.
+  * **The Solution:** Engineered a unified AI-powered hub.
+  * **The Win:** **70% automation** of routine tasks and sub-100ms interaction latency.
 
-* Migrated legacy systems to Next.js, improving load time by 50%
-* Increased SEO performance by 30%
-* Reduced API latency by 35% through optimization
+### 🚄 **High-Concurrency Infrastructure**
 
----
+  * **Real-time:** Built chat systems for **1,000+ concurrent users**.
+  * **Optimization:** Slashed rendering overhead by **70%** and API latency by **35%**.
+  * **SEO:** Boosted organic performance by **30%** via server-side optimization.
 
-## Technical Focus
+-----
 
-Frontend Engineering · Performance Optimization · System Design
-React · Next.js · TypeScript · Node.js · MySQL
-AI Integrations · Real-time Systems · CI/CD
+## 📊 **The Numbers**
 
----
+\<p align="center"\>
+\<img src="[https://github-readme-stats.vercel.app/api?username=Ankit-Gupta4502\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0D1117](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAnkit-Gupta4502%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117)" /\>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Gupta4502\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0D1117](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAnkit-Gupta4502%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117)" /\>
+\</p\>
 
-## Selected Work
+-----
 
-**Kapture EX — Employee Experience Platform**
+## 🌐 **Connect With Me**
 
-AI-powered system integrating Keka, Jira, Salesforce, and Google APIs. Designed automation workflows and multi-model AI agents, achieving 70% automation of routine tasks.
+\<p align="left"\>
+\<a href="[https://www.linkedin.com/in/ankit-gupta-a64280178/](https://www.linkedin.com/in/ankit-gupta-a64280178/)" target="blank"\>\<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="ankit-gupta" height="30" width="40" /\>\</a\>
+\<a href="mailto:aryangupta2224@gmail.com" target="blank"\>\<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)" alt="ankit-gupta" height="30" width="40" /\>\</a\>
+\</p\>
 
----
-
-## Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Gupta4502&show_icons=false&theme=default&hide_border=true" />
-</p>
-
----
-
-## Contact
-
-LinkedIn
-[https://www.linkedin.com/in/ankit-gupta-a64280178/](https://www.linkedin.com/in/ankit-gupta-a64280178/)
-
-LeetCode
-[https://leetcode.com/u/aryangupta2224/](https://leetcode.com/u/aryangupta2224/)
-
-Email
-[aryangupta2224@gmail.com](mailto:aryangupta2224@gmail.com)
-
----
-
-> Building systems that are fast, reliable, and quietly powerful.
-
----
+-----
